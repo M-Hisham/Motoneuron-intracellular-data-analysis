@@ -3,6 +3,8 @@ This repository contains MATLAB scripts for measuring various intracellular prop
 
 ## Spike Analyzer Script:
 **A Matlab livescript file to analyze single spikes and extract the following properties:**
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=M-Hisham/Motoneuron-intracellular-data-analysis)
 ### Measurements
 
 1. RMP
