@@ -1,7 +1,7 @@
 # Motoneuron intracellular data-analysis using MATLAB
 This repository contains MATLAB scripts for measuring various intracellular properties from spinal motoneurons' data recorded using sharp electrode.
 
-## Spike Analyzer script:
+## Spike Analyzer Script:
 **A Matlab livescript file to analyze single spikes and extract the following properties:**
 ### Measurements
 
