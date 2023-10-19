@@ -1,0 +1,5 @@
+# .gitattributes file
+
+# Set the programming language for files
+*.mlx linguist-language=Matlab
+*.m linguist-language=Matlab
